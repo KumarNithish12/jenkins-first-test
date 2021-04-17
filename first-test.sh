@@ -3,3 +3,4 @@ date
 cal
 
 echo "Bye !!"
+echo "Change Happened"
